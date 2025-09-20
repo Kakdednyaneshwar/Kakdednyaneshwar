@@ -9,15 +9,12 @@
 - **Web:** Basic HTML & CSS
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Cloud services for data deployment (AWS, Azure)
+- Machine Learning techniques
 
 ## 🚀 Projects
-- 📊 **Power BI Dashboards:** Interactive dashboards for sales & customer analysis
-- 📈 **Python Data Analysis:** Scripts and notebooks for EDA and ML
 - 🏡 **House Price Prediction:** Web app using ML to predict house prices
 - 🏡 **Expense-Tracker:** A simple **command-line expense tracker** application built using **Python** and **MySQL**.  
-It allows users to record, view, and manage their expenses with categories and summaries.
+                          It allows users to record, view, and manage their expenses with categories and summaries.
 
 
 ## 📫 Contact Me
